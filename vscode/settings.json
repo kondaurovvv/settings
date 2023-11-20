@@ -1,0 +1,32 @@
+{
+    "telemetry.telemetryLevel": "off",
+    "security.workspace.trust.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.theme": "specific",
+    "explorer.compactFolders": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderWhitespace": "all",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.lineHeight": 22,
+    "editor.rulers": [72, 80],
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    // Prettier
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // CSS
+    "css.format.spaceAroundSelectorSeparator": true,
+    "stylelint.snippet": ["css", "less", "postcss", "scss"],
+    "stylelint.validate": ["css", "less", "postcss", "scss"],
+    "css.validate": false,
+    "scss.validate": false,
+    "less.validate": false
+}

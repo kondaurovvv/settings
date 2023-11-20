@@ -5,21 +5,21 @@
 
 **Настройки для:**
 
-- **{+ Backend +}**
-  - **{+ Python +}**
-  - **{+ Nodejs +}**
-- **{+ Debian +}**
-- **{+ Configuration files +}**
-- **{+ Git +}**
-  - **{+ GitHub +}**
-  - **{+ GitLab +}**
-- **{+ Visual Studio Code +}**
-- **{+ Frontend +}**
-  - **{+ CSS +}**
-  - **{+ Figma +}**
-  - **{+ Fonts +}**
-  - **{+ HTML +}**
-  - **{+ JavaScript +}**
+- **Backend**
+  - **Python**
+  - **Nodejs**
+- **Debian**
+- **Configuration files**
+- **Git**
+  - **GitHub**
+  - **GitLab**
+- **Visual Studio Code**
+- **Frontend**
+  - **CS**
+  - **Figma**
+  - **Fonts**
+  - **HTML**
+  - **JavaScript**
 
 ## Структура проекта
 

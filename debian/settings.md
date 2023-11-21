@@ -117,6 +117,11 @@ reboot
 ```bash
 lspci -v
 ```
+Удаления драиверов NVIDIA.
+
+```bash
+apt remove nvidia-* --purge
+```
 
 ## Установка программ
 

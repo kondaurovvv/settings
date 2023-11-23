@@ -31,7 +31,7 @@ cat id_ed25519_*******_****.pub
 Перейдите в раздел **«SSH Keys»** и вставьте ключ в поле **«Add new key»**.
 Нажмите **«Add key»**.
 
-Переходим к созданию **[config](https://gitlab.com/vladimir_kondaurov/setings/-/blob/main/git/github/config.md?ref_type=heads)** файла.
+Переходим к созданию **[config](https://github.com/kondaurovvv/settings/blob/main/git/github/config.md)** файла.
 
 ## Тестируем подключение
 

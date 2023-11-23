@@ -24,4 +24,4 @@ Host github.имя_аккаунта.com
     IdentityFile ~/.ssh/id_ed25519_github_имя_аккаунта
 ```
 
-Переходим к **[Тестированию подключения](https://gitlab.com/vladimir_kondaurov/setings/-/blob/main/git/github/ssh_keys.md?ref_type=heads)**.
+Переходим к **[Тестированию подключения](https://github.com/kondaurovvv/settings/blob/main/git/github/ssh_keys.md)**.

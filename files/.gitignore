@@ -1,3 +1,12 @@
+#  VS Code
+.vscode/
+
+# IDE
+.idea/
+
+# Mac
+.DS_Store/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -159,3 +168,11 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# JS
+node_modules/
+
+# Production
+bin/
+build/
+dist/
+coverage/

@@ -137,8 +137,6 @@ apt install xclip vlc qbittorrent gimp eog telegram-desktop
 - [Firefox](https://www.mozilla.org/ru/firefox/)
 - [MEdge](https://www.microsoft.com/ru-ru/edge/download?form=MA13FJ)
 - [VSCode](https://code.visualstudio.com/)
-- [DBeaver](https://dbeaver.io/download/)
-- [PostgreSQL](https://www.postgresql.org/download/linux/debian/)
 
 ```bash
 apt install ./package_name.deb
